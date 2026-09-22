@@ -149,13 +149,6 @@ Me chamo Iago Pereira Ramalho, tenho 24 anos e sou natural de Minas Gerais. Atua
     src="https://github-readme-stats.shion.dev/api?username=Ig-pr&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br" 
 />
 
-<img 
-    align="left" 
-    alt="Github Stats" 
-    height="190"
-    src="https://streak-stats.demolab.com/?user=Ig-pr&theme=github_dark_dimmed&hide_border=false&locale=pt-br"
-/>
-
 
 <img 
     align="left" 
