@@ -1,6 +1,5 @@
 # 👩🏻‍💻 Iago Pereira
 
-**`Desenvolvedor Front-End`**
 
 Me chamo Iago Pereira Ramalho, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na UFPR e já fiz parte da Ecomp (Empresa Júnior de Computação da UFPR), atuando como dev front, mas também estudando um pouco sobre back-end. Sou apaixonado por tecnologia, desde criança me questionava como os aparelhos e programas funcionavam.
 
